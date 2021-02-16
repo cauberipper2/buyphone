@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "229408055931",
+    "project_id": "buyphoneapp",
+    "storage_bucket": "buyphoneapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229408055931:android:24d2f534c9d2965d0c38de",
+        "android_client_info": {
+          "package_name": "hoaiphong.buyphoneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229408055931-u077ccns94lhtvcgtr3cdphutba3fgb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeTlLZc_qE0WODBwFnC0DWrd73u0L8tDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229408055931-u077ccns94lhtvcgtr3cdphutba3fgb9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "229408055931-ja54srit5d63860cvhqh8cgjale07rcb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "hoaiphong.buyphoneapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
